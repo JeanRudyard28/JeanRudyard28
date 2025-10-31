@@ -1,8 +1,8 @@
-# 🚀 **Bonjour, je suis [Votre Nom]** 
+# 🚀 **Bonjour, je suis Jean Rudyard** 
 
-### **Développeur [votre spécialité] passionné • Créateur de solutions digitales**
+### **Développeur Informatique passionné • Créateur de solutions digitales**
 
-*[Description percutante de vous et de votre vision]*
+*[Spécialiste en développement full-stack, créant des ponts entre le frontend captivant et le backend robuste]*
 
 ---
 
