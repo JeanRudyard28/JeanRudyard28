@@ -2,9 +2,8 @@
 
 ### **Développeur Informatique passionné • Créateur de solutions digitales**
 
-*[Spécialiste en développement full-stack, créant des ponts entre le frontend captivant et le backend robuste]*
+*Spécialiste en développement full-stack, créant des ponts entre le frontend captivant et le backend robuste*
 
----
 
 ## 🛠️ **Écosystème Technique**
 
@@ -36,97 +35,24 @@
 
 </div>
 
----
-
-## 📊 **Tableau de Bord GitHub**
-
-<div align="center">
-
-<a href="https://github.com/votrenom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=votrenom&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votrenom&layout=compact&theme=radical&hide_border=true" />
-</a>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=votrenom&theme=radical&hide_border=true)
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=votrenom&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-## 🌟 **Projets en Vedette**
-
-### 🔥 **[Nom du Projet Principal]**
-```bash
-🎯 Stack: [Technologies principales] 
-✨ Features: [Fonctionnalités clés]
-🚀 Status: [En cours/Terminé]
-```
-*Description détaillée du projet et de sa valeur ajoutée*
-
-### ⚡ **[Autre Projet Important]**
-```bash
-🛠️ Technologies: [Liste des technologies]
-📈 Impact: [Résultats obtenus]
-🔧 Challenges: [Défis relevés]
-```
-*Description du projet et des compétences démontrées*
-
-### 🎨 **[Projet Créatif]**
-```bash
-💡 Innovation: [Aspect innovant]
-🎭 Design: [Approche design]
-📱 UX: [Expérience utilisateur]
-```
-*Projet mettant en avant votre créativité*
-
----
-
-## 📈 **Activité Récente**
-
-<!--START_SECTION:activity-->
-```text
-🔄  Mise à jour    Refactorisation du code  
-🎉  Nouveau        Feature ajoutée  
-🐛  Correction     Bug fix  
-📚  Documentation  Readme amélioré  
-```
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 **Focus Actuel**
-
-- 🔭 **En développement:** [Projet en cours]
-- 🌱 **J'apprends:** [Nouvelle technologie/compétence]
-- 👯 **Je cherche à collaborer sur:** [Type de projets]
-- 🤔 **Je veux de l'aide avec:** [Sujet spécifique]
-- 💬 **Parlons de:** [Sujets de discussion]
-- 📫 **Comment me joindre:** [Méthode préférée]
-
----
 
 ## 📞 **Réseaux & Contact**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@domain.com)
+[![Email](https://img.shields.io/badge/Email_Pro-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjeanrudyard@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Pro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votrelien)
-[![Portfolio](https://img.shields.io/badge/Portfolio_🚀-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votresite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio_🚀-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jean-rudyard-portfolio.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter_💬-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votrecompte)
 
 </div>
 
----
 
 <div align="center">
 
 ## 💫 **Fun Fact & Passion**
 
-*[Une anecdote personnelle intéressante qui montre votre personnalité]*
+*Ancien joueur de poker pro, j'applique maintenant les probabilités à l'optimisation d'algorithmes. Bluffer un adversaire ou debugger du code, même combat! ♠️👨‍💻*
 
 **📊 Statistiques de profil:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=votrenom&color=blueviolet&style=flat-square)
@@ -135,19 +61,4 @@
 
 </div>
 
----
 
-### 🎨 **Customisation Tips:**
-- Remplacez `votrenom` par votre username GitHub
-- Ajoutez vos vrais projets et liens
-- Personnalisez les couleurs avec d'autres thèmes (dark, transparent, etc.)
-- Ajoutez des gifs ou images pour plus de personnalité
-
-```yaml
-Thèmes disponibles: 
-  - radical (actuel)
-  - dark
-  - transparent
-  - github_dark
-  - nightowl
-```
